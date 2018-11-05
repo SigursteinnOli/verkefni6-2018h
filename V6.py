@@ -2,7 +2,7 @@
 #19/09/18
 #Verkefni 4
 
-#from sys import argv
+from sys import argv
 from bottle import *
 from beaker.middleware import SessionMiddleware
 import os
